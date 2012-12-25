@@ -1,0 +1,112 @@
+/* latest updates table */
+table.latest_updates {
+    margin-left:0px;
+    text-align:left;
+}
+table.latest_updates th {
+    background-color:#F8D9D7;
+    color:white;
+}
+table.latest_updates td {
+    padding:15px;
+}
+table.latest_updates th.picture {
+    width:10%;
+}
+table.latest_updates div.drama_picture {
+    display:table-cell;
+}
+table.latest_updates div.drama_picture img {
+    display:block;
+    /* center in div */
+    margin:auto;
+}
+table.latest_updates div.drama_picture img.flag {
+    margin-top:5px;
+}
+table.latest_updates th.title {
+    width:50%;
+}
+table.latest_updates div.drama_title_episode {
+    font-size:1.2em;
+    display:table-cell;
+    width:100%;
+    padding-left:10px;
+    vertical-align:top;
+}
+table.latest_updates tr:nth-child(2n) {
+    background-color:#FCFAE3;
+}
+table.latest_updates div.drama_title_episode a.drama_title {
+    color:black;	
+    font-weight:bold;	
+}
+table.latest_updates div.drama_title_episode a.drama_title:hover {
+    color:#FD9021;
+    text-decoration:none;
+}
+table.latest_updates li.drama_episode{
+    font-weight:normal;
+    font-size:.8em;
+}
+table.latest_updates li.drama_episode a:hover {
+    color:#F8D9D7;
+}
+#latest_updates_nav {
+    text-align:right;
+}
+#latest_updates_nav .btn {
+    margin-top:10px;
+}
+/* popular shows table */ 
+h2.popular_shows a {
+    color:black;
+}
+h2.popular_shows a:hover {
+    background-color:#FD9021;
+}
+table.popular_shows {
+    margin-left:0px;
+    text-align:left;
+}
+table.popular_shows td {
+    padding-bottom:10px;
+}
+table.popular_shows div.drama_picture, 
+table.popular_shows div.drama_title_summary
+{
+    display:table-cell;
+}
+table.popular_shows div.drama_title_summary {
+    font-size:1em;
+    width:100%;
+    padding-left:10px;
+    vertical-align:top;
+}
+table.popular_shows div.drama_picture img {
+    display:block;
+    /* center in div */
+    margin:auto;
+}
+table.popular_shows div.drama_picture img.flag {
+    margin-top:5px;
+}
+table.popular_shows tr:nth-child(2n) {
+    background-color:#FCFAE3;
+}
+table.popular_shows a.drama_title {
+    font-size:1.2em;
+    font-weight:bold;
+    color:black;
+}
+table.popular_shows a.drama_title:hover {
+    color:#FD9021;
+    text-decoration:none;
+}
+/* latest shows */
+h2.latest_shows a {
+    color:black;
+}
+h2.latest_shows a:hover {
+    background-color:#FD9021;
+}

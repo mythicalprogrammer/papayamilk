@@ -1,0 +1,33 @@
+hr.drama_info {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#drama_title_summary h1.title {
+    color: #FD9021;
+}
+/* title */
+#title th.field{
+    width:30%;
+}
+#title span.title {
+    font-weight:bold;
+} 
+#title table td{
+    vertical-align: top;
+    padding-bottom: 15px;
+}
+#cast ul.cast_list li {
+    padding-bottom: 15px;
+}
+table.user_rating td {
+    padding-right:15px; 
+}
+table.user_rating td.field {
+    font-weight:bold;
+}
+h2.reviews a {
+    color: black;
+}
+h2.reviews a:hover {
+    background-color: #FD9021;
+}
