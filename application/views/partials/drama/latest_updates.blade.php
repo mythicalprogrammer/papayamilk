@@ -3,17 +3,18 @@
 <table class="latest_updates span8">
     <thead>
         <tr>
+            <th class="picture"></th>
             <th class="title">Title</th>
             <th class="group">Group</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td class="drama_picture">
+                <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
+                <img src="img/flag/jp.gif" class="flag" alt="Japan Flag"/>
+            </td>
             <td class="drama_title_container">
-                <div class="drama_picture">
-                    <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
-                    <img src="img/flag/jp.gif" class="flag" alt="Japan Flag"/>
-                </div>
                 <div class="drama_title_episode">
                     <a class="drama_title" href="#">Drama title 1</a>
                     <hr class="drama_info" />
@@ -27,11 +28,11 @@
             </td>
         </tr>
         <tr>
+            <td class="drama_picture">
+                <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
+                <img src="img/flag/jp.gif" class="flag" alt="Japan Flag"/>
+            </td>
             <td class="drama_title_container">
-                <div class="drama_picture">
-                    <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
-                    <img src="img/flag/jp.gif" class="flag" alt="Japan Flag"/>
-                </div>
                 <div class="drama_title_episode">
                     <a class="drama_title" href="#">Drama title 2</a>
                     <hr class="drama_info" />
@@ -46,31 +47,29 @@
             </td>
         </tr>
         <tr>
+            <td class="drama_picture">
+                <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
+                <img src="img/flag/kr.gif" class="flag" alt="South Korea Flag"/>
+            </td>
             <td class="drama_title_container">
-                <div class="drama_picture">
-                    <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
-                    <img src="img/flag/kr.gif" class="flag" alt="South Korea Flag"/>
-                </div>
-                <div class="drama_title_episode">
-                    <a class="drama_title" href="#">Drama title 3</a>
-                    <hr class="drama_info" />
-                    <ul class="drama_episode_list">
-                        <li class="drama_episode"><a href="#">Episode 12</a></li>
-                        <li class="drama_episode"><a href="#">Episode 13</a></li>
-                        <li class="drama_episode"><a href="#">Episode 14</a></li>
-                    </ul>
-                </div>
+                <a class="drama_title" href="#">Drama title 3</a>
+                <hr class="drama_info" />
+                <ul class="drama_episode_list">
+                    <li class="drama_episode"><a href="#">Episode 12</a></li>
+                    <li class="drama_episode"><a href="#">Episode 13</a></li>
+                    <li class="drama_episode"><a href="#">Episode 14</a></li>
+                </ul>
             </td>
             <td class="drama_group_container">
                 <a class="drama_group" href="#">Subber Dubber Doo</a>
             </td>
         </tr>
         <tr>
+            <td class="drama_picture">
+                <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
+                <img src="img/flag/cn.gif" class="flag" alt="China Flag"/>
+            </td>
             <td class="drama_title_container">
-                <div class="drama_picture">
-                    <a href="#"><img class="drama_picture" alt="drama picture" src="img/drama_placeholder.jpg" /></a>
-                    <img src="img/flag/cn.gif" class="flag" alt="China Flag"/>
-                </div>
                 <div class="drama_title_episode">
                     <a class="drama_title" href="#">Drama title 4</a>
                     <hr class="drama_info" />
